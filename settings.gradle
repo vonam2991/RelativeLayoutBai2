@@ -1,0 +1,2 @@
+rootProject.name='RelativeLayoutBai2'
+include ':app'
